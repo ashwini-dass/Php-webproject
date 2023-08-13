@@ -42,7 +42,7 @@
     <div class="container-xxl position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
             <a href="" class="navbar-brand p-0">
-                <h1 class="m-0"> <a href="#" class="navbar-brand text-dark"><img src="../images/JRM logo.png" class="logo"></a></h1>
+                <h1 class="m-0"> <a href="#" class="navbar-brand text-dark"><img src="./images/JRM logo.png" class="logo"></a></h1>
                 <!-- <img src="img/logo.png" alt="Logo"> -->
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -94,7 +94,7 @@
                 
                 <div class="row g-5">
                     <div class="col-lg-6">
-                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="../images/aboutimg.png">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="./images/aboutimg.png">
                     </div>
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="section-title position-relative mb-4 pb-2">
@@ -208,7 +208,7 @@
                     </li>
                   </ul>
                   <figure class="features-banner mt-0">
-                    <img src="../IMAGES/road.png" width="369" height="auto" loading="lazy" alt="Features Banner"
+                    <img src="./IMAGES/road.png" width="369" height="auto" loading="lazy" alt="Features Banner"
                       class="w-100 banner-animation">
                   </figure>
                   <ul class="features-list">
@@ -271,7 +271,7 @@
                         <i class="fa fa-quote-left fa-2x mb-3"></i>
                         <p>Nice place to learn and development. Good Atmosphere and Friendly staffs.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="../IMAGES/testimonial-1.jpg" style="width: 50px; height: 50px;">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="./IMAGES/testimonial-1.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
                                 <h6 class="text-dark mb-1">Client Name</h6>
                                 <small>Profession</small>
@@ -282,7 +282,7 @@
                         <i class="fa fa-quote-left fa-2x mb-3"></i>
                         <p>One of the top leading Institute in bangalore. All course in available.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="../IMAGES/testimonial-2.jpg" style="width: 50px; height: 50px;">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="./IMAGES/testimonial-2.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
                                 <h6 class="text-dark mb-1">Client Name</h6>
                                 <small>Profession</small>
@@ -293,7 +293,7 @@
                         <i class="fa fa-quote-left fa-2x mb-3"></i>
                         <p>Environment excellent quality place for learning and making a knowledge</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="../IMAGES/testimonial-3.jpg" style="width: 50px; height: 50px;">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="./IMAGES/testimonial-3.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
                                 <h6 class="text-dark mb-1">Client Name</h6>
                                 <small>Profession</small>
@@ -304,7 +304,7 @@
                         <i class="fa fa-quote-left fa-2x mb-3"></i>
                         <p>Talented staffs. clearing our doubts immediately. </p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="../IMAGES/testimonial-4.jpg" style="width: 50px; height: 50px;">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="./IMAGES/testimonial-4.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
                                 <h6 class="text-dark mb-1">Client Name</h6>
                                 <small>Profession</small>
