@@ -1,0 +1,110 @@
+/*odoo work process*/
+
+/* .how_it_work .custom-container {
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;
+} */
+.odoo{
+ 
+}
+.how_it_work.odoo .single_it_work {
+    text-align: center;
+    padding: 0 11px;
+    margin-bottom: 30px;
+}
+.how_it_work.odoo .work_progress_icon i {
+    background: linear-gradient(90deg, rgba(30,85,189,1) 0%, rgba(67,126,235,1) 100%);
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    color: #ffffff;
+    font-size: 50px;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+    width: 120px;
+    z-index: 1;
+    -webkit-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -ms-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    transition: all 0.35s ease-in-out;
+    display: inline-flex;
+}
+.how_it_work.odoo .work_progress_icon {
+    position: relative;
+    z-index: 1;
+    margin-bottom: 127px;
+}
+.how_it_work.odoo .work_progress_icon::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    right: 0;
+  
+    width: 15px;
+    height: 15px;
+    border: 2px solid #ddd;
+    border-radius: 100%;
+    bottom: -32px;
+}
+.how_it_work.odoo .work_progress_icon::before {
+    position: absolute;
+    content: "";
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 2px;
+    height: 40px;
+    border-left: 2px dashed #ddd;
+    border-radius: 100%;
+    bottom: -74px;
+}
+.how_it_work.odoo .single_it_work_content_list span:before, 
+.how_it_work.odoo .single_it_work_content_list span:after{
+    display: none;
+}
+.how_it_work.odoo .single_it_work_content_list span {
+    border-radius: 50%;
+    font-weight: 600;
+    position: absolute;
+    top: 0;
+    width: 45px;
+    line-height: 45px;
+    display: inline-block;
+    transition: .3s;
+    background: #fff;
+    border-radius: 50%;
+    color: #0C5ADB;
+    box-shadow: 0 0 10px #cccccc;
+}
+.how_it_work.odoo .single_it_work_content_list {
+    position: absolute;
+    top: 0;
+    right: 0;
+   
+}
+.how_it_work.odoo .single_it_work::after {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    content: "";
+    background-image: url(assets/images/direction-sign.png);
+    height: 40px;
+    width: 200px;
+    background-repeat: no-repeat;
+    margin-right: -119px;
+    background-size: contain;
+}
+.how_it_work.odoo .single_it_work_content_list::before {
+    display: none;
+}
+.how_it_work.odoo .single_it_work.last:after{
+    display: none;
+}
+.how_it_work.odoo .section_main_title h1, .section_main_title h2 {
+    font-size: 39px;
+}
+/* How It Work Style Tow */
